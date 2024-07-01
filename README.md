@@ -9,6 +9,10 @@ extension "Instant Data Scraper". The data from all states was collected, prepro
 - **Data Handling**: Python, pandas library
 - **Visualization**: matplotlib, seaborn
 
+## Files Included
+- **Data Files**: Here are CSV files of raw data of States and some mergered file (named as _co). Also it has a CSV file "All_States" which has merged data from all States.
+- **Analysis Scripts**: It has a Jupyter Notebook named as 'Lok Sabha 2024 election Analysis'.
+
 ## Key Insights
 The analysis provides 10 key insights derived from the data, including trends, statistical summaries, and visual representations using the mentioned tools and libraries.
 
